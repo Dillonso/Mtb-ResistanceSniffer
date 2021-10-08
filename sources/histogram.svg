@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 800 600">
+<rect x="0" y="0" fill="#467746" width="800" height="600"/>
+<line x1="100" y1="100" x2="100" y2="550" fill="none" stroke="white" stroke-width="2" />
+<path style="stroke:white;stroke-width:1;fill:white" d="M90,110L100,90L110,110L100,100Z" />
+<line x1="50" y1="500" x2="700" y2="500" fill="none" stroke="white" stroke-width="2" />
+<path style="stroke:white;stroke-width:1;fill:white" d="M690,490L710,500L690,510L700,500Z" />
+<line x1="90" y1="460" x2="100" y2="460" fill="none" stroke="white" stroke-width="2" />
+<text x="85" y="465" font-family="Times New Roman" font-weight="bold" fill="white" font-size="14" style="text-anchor:end">0.1</text>
+<line x1="90" y1="420" x2="100" y2="420" fill="none" stroke="white" stroke-width="2" />
+<text x="85" y="425" font-family="Times New Roman" font-weight="bold" fill="white" font-size="14" style="text-anchor:end">0.2</text>
+<line x1="90" y1="380" x2="100" y2="380" fill="none" stroke="white" stroke-width="2" />
+<text x="85" y="385" font-family="Times New Roman" font-weight="bold" fill="white" font-size="14" style="text-anchor:end">0.3</text>
+<line x1="90" y1="340" x2="100" y2="340" fill="none" stroke="white" stroke-width="2" />
+<text x="85" y="345" font-family="Times New Roman" font-weight="bold" fill="white" font-size="14" style="text-anchor:end">0.4</text>
+<line x1="90" y1="300" x2="100" y2="300" fill="none" stroke="white" stroke-width="2" />
+<text x="85" y="305" font-family="Times New Roman" font-weight="bold" fill="white" font-size="14" style="text-anchor:end">0.5</text>
+<line x1="90" y1="260" x2="100" y2="260" fill="none" stroke="white" stroke-width="2" />
+<text x="85" y="265" font-family="Times New Roman" font-weight="bold" fill="white" font-size="14" style="text-anchor:end">0.6</text>
+<line x1="90" y1="220" x2="100" y2="220" fill="none" stroke="white" stroke-width="2" />
+<text x="85" y="225" font-family="Times New Roman" font-weight="bold" fill="white" font-size="14" style="text-anchor:end">0.7</text>
+<line x1="90" y1="180" x2="100" y2="180" fill="none" stroke="white" stroke-width="2" />
+<text x="85" y="185" font-family="Times New Roman" font-weight="bold" fill="white" font-size="14" style="text-anchor:end">0.8</text>
+<line x1="90" y1="140" x2="100" y2="140" fill="none" stroke="white" stroke-width="2" />
+<text x="85" y="145" font-family="Times New Roman" font-weight="bold" fill="white" font-size="14" style="text-anchor:end">0.9</text>
+<text x="50" y="305" font-family="Times New Roman" font-weight="bold" fill="white" font-size="16" style="text-anchor:middle" transform="rotate(-90,50,305)">
+Resistance values</text>
+<text x="130" y="550" font-family="Times New Roman" font-weight="bold" fill="white" font-size="10" style="text-anchor:start">
+Antibiotics: amikacin (AMK), capreomycin (CM), cycloserin (CS), ethambutol (EMB), ethionamide (ETH), isoniazid (INH),</text>
+<text x="130" y="560" font-family="Times New Roman" font-weight="bold" fill="white" font-size="10" style="text-anchor:start"> 
+fluoroquinolones (FLQ), kanamycin (KAN), ofloxacin (OFL), para-amino salicyclic acid (PAS), pyrazinamide (PZA), rifampicin (RIF)</text>
+<text x="130" y="570" font-family="Times New Roman" font-weight="bold" fill="white" font-size="10" style="text-anchor:start"> 
+and streptomycin (SM).</text>
+<rect x="125" y="100" fill="lightgreen" strock="black" width="50" height="398"/>
+</svg>

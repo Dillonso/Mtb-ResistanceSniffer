@@ -1,0 +1,1649 @@
+'id	Position	Power	Allelic_frequencies	Values	Locus	Gene	Codon	Annotation
+
+#### CLADE IDENTIFICATION TABLES
+
+#### -->
+	Split 1:	African&European | Asian
+32666	1541798	0.68	A,V|A,V	0.98,0.01|0.02,0.97	Rv1368	lprF	260	Probable conserved lipoprotein LprF
+13892	627485	0.68	I,V|I,V	0.01,0.98|0.98,0.01	Rv0536	galE3	80	Probable UDP-glucose 4-epimerase GalE3 (galactowalde00se) (UDP-galactose 4-epimerase) (uridine diphosphate galactose 4-epimerase) (uridine diphospho-galactose 4-epimerase)
+68059	3375165	0.66	C,F|C,F	0.0,0.99|0.94,0.05	Rv3015c		167	hypothetical protein
+8935	383716	0.64	P,S|P,S	0.98,0.01|0.06,0.93	Rv0315		39	Possible beta-1,3-gluca00se precursor
+84743	4133316	0.64	S,T|S,T	0.01,0.98|0.91,0.08	Rv3691		267	hypothetical protein
+56301	2752122	0.64	R,T|R,T	0.0,0.99|0.91,0.08	Rv2450c	rpfE	20	Probable resuscitation-promoting factor RpfE
+15825	707334	0.64	A,T|A,T	0.01,0.98|0.93,0.06	Rv0613c		728	hypothetical protein
+82912	4032218	0.64	A,V|A,V	0.97,0.02|0.06,0.93	Rv3590c	PE_PGRS58	314	PE-PGRS family protein PE_PGRS58
+58833	2867575	0.63	A,V|A,V	0.04,0.95|0.93,0.06	Rv2544	lppB	151	Probable conserved lipoprotein LppB
+61088	2983095	0.63	A,T|A,T	0.04,0.95|0.93,0.06	Rv2666		9	Probable transposase for insertion sequence element IS1081 (fragment)
+32991	1561939	0.62	D,E|D,E	0.0,0.99|0.89,0.1	Rv1387	PPE20	57	PPE family protein PPE20
+28031	1299305	0.62	L,P|L,P	0.0,0.99|0.88,0.11	Rv1168c	PPE17	167	PPE family protein PPE17
+72291	3626562	0.62	P,S|P,S	0.99,0.0|0.1,0.89	Rv3245c	mtrB	18	Two component sensory transduction histidine ki00se MtrB
+56079	2738274	0.62	R,S|R,S	0.0,0.99|0.88,0.11	Rv2440c	obg	471	Probable GTP1/Obg-family GTP-binding protein Obg
+71487	3576231	0.61	Q,R|Q,R	0.99,0.0|0.13,0.86	Rv3201c		269	Probable ATP-dependent D00 helicase
+45812	2172380	0.61	A,E|A,E	0.0,0.99|0.87,0.12	Rv1920		253	Probable membrane protein
+12819	575907	0.61	A,V|A,V	0.99,0.0|0.12,0.87	Rv0486	mshA	187	Glycosyltransferase MshA
+50159	2399734	0.61	G,S|G,S	0.99,0.0|0.13,0.86	Rv2139	pyrD	339	Probable dihydroorotate dehydroge00se PyrD
+65195	3209156	0.61	A,V|A,V	0.99,0.0|0.12,0.87	Rv2899c	fdhD	84	Possible FdhD protein homolog
+5944	283610	0.61	A,V|A,V	0.98,0.01|0.1,0.89	Rv0236c	aftD	1081	Possible arabinofuranosyltransferase AftD
+#### <--
+#### -->
+		Split 1.1:	Ancestral | Modern
+14709	670545	0.66	H,R|H,R	0.94,0.05|0.01,0.98	Rv0576		233	Probable transcriptio00l regulatory protein (possibly ArsR-family)
+58236	2841022	0.65	C,R|C,R	0.05,0.94|0.98,0.01	Rv2524c	fas	2771	Probable fatty acid synthase Fas (fatty acid synthetase)
+15970	713310	0.63	C,R|C,R	0.09,0.9|0.98,0.01	Rv0620	galK	199	Probable galactoki00se GalK (galactose ki00se)
+61864	3027798	0.62	A,V|A,V	0.89,0.1|0.01,0.98	Rv2714		245	Conserved alanine and leucine rich protein
+61903	3031168	0.62	H,Y|H,Y	0.89,0.1|0.0,0.99	Rv2719c		124	Possible conserved membrane protein
+40803	1931718	0.61	L,V|L,V	0.1,0.89|0.97,0.02	Rv1705c	PPE22	313	PPE family protein PPE22
+23265	1080192	0.59	D,N|D,N	0.15,0.84|0.99,0.0	Rv0969	ctpV	484	Probable metal cation transporter P-type ATPase CtpV
+945	42281	0.57	C,F|C,F	0.17,0.82|0.98,0.01	Rv0039c		24	Possible conserved transmembrane protein
+48697	2328543	0.56	I,M|I,M	0.19,0.8|0.99,0.0	Rv2071c	cobM	145	Precorrin-3 methylase CobM (precorrin-4 C11-methyltransferase)
+50351	2413246	0.56	L,V|L,V	0.82,0.17|0.02,0.97	Rv2153c	murG	36	Probable UPD-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol-N-acetylglucosamine transferase MurG
+61167	2988630	0.56	D,H|D,H	0.8,0.2|0.0,0.99	Rv2672		317	Possible secreted protease
+82420	4005114	0.55	S,W|S,W	0.79,0.2|0.0,0.99	Rv3563	fadE32	275	Probable acyl-CoA dehydroge00se FadE32
+20600	932280	0.54	*,W|*,W	0.22,0.77|0.99,0.0	Rv0836c		218	Hypothetical protein
+22268	1024346	0.54	G,S|G,S	0.77,0.22|0.0,0.99	Rv0918		46	hypothetical protein
+73278	3690016	0.54	L,S|L,S	0.22,0.77|0.99,0.0	Rv3303c	lpdA	308	00D(P)H quinone reductase LpdA
+38736	1839759	0.53	G,R|G,R	0.23,0.76|0.99,0.0	Rv1634		198	Possible drug efflux membrane protein
+84047	4089058	0.53	L,P|L,P	0.22,0.77|0.98,0.01	Rv3649		93	Probable helicase
+43364	2050822	0.52	A,G|A,G	0.73,0.26|0.0,0.99	Rv1808	PPE32	301	PPE family protein PPE32
+12524	555991	0.5	C,R|C,R	0.26,0.73|0.99,0.0	Rv0465c		106	Probable transcriptio00l regulatory protein
+21055	960367	0.5	L,S|L,S	0.27,0.72|0.99,0.0	Rv0862c		749	hypothetical protein
+#### <--
+#### -->
+		Split 1.1.1:	Lineage_1&AFRI | Lineage_7
+1511	72545	0.7	E|A	1.0|1.0	Rv0066c	icd2	656	Probable isocitrate dehydroge00se [00DP] Icd2 (oxalosucci00te decarboxylase) (IDH) (00DP+-specific ICDH) (IDP)
+2150	101706	0.7	A|V	1.0|1.0	Rv0092	ctpA	375	Cation transporter P-type ATPase a CtpA
+7831	347456	0.7	P|T	1.0|1.0	Rv0284	eccC3	608	ESX conserved component EccC3 ESX-3 type VII secretion system protein Possible membrane protein
+23298	1081882	0.7	S|P	1.0|1.0	Rv0971c	echA7	235	Probable enoyl-CoA hydratase EchA7 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (croto00se)
+28160	1307140	0.7	G|R	1.0|1.0	Rv1175c	fadH	363	Probable 00DPH dependent 2,4-dienoyl-CoA reductase FadH (2,4-dienoyl coenzyme A reductase) (4-enoyl-CoA reductase)
+31985	1504334	0.7	E|G	1.0|1.0	Rv1336	cysM	314	Cysteine synthase B CysM (CSASE B) (O-phosphoserine sulfhydrylase B) (O-phosphoserine (thiol)-lyase B)
+36828	1736595	0.7	Y|S	1.0|1.0	Rv1536	ileS	26	Isoleucyl-tR00 synthetase IleS
+44267	2098195	0.7	V|M	1.0|1.0	Rv1850	ureC	79	Urease alpha subunit UreC (urea amidohydrolase)
+45828	2173273	0.7	Y|D	1.0|1.0	Rv1921c	lppF	175	Probable conserved lipoprotein LppF
+52650	2545215	0.7	A|D	1.0|1.0	Rv2270	lppN	173	Probable lipoprotein LppN
+56498	2766211	0.7	T|N	1.0|1.0	Rv2463	lipP	186	Probable esterase/lipase LipP
+56927	2793444	0.7	N|S	1.0|1.0	Rv2485c	lipQ	182	Probable carboxylesterase LipQ
+60814	2967747	0.7	G|C	1.0|1.0	Rv2643	arsC	280	Probable arsenic-transport integral membrane protein ArsC
+65556	3232007	0.7	H|P	1.0|1.0	Rv2920c	amt	167	Probable ammonium-transport integral membrane protein Amt
+68525	3402510	0.7	R|H	1.0|1.0	Rv3042c	serB2	218	Probable phosphoserine phosphatase SerB2 (PSP) (O-phosphoserine phosphohydrolase) (pspase)
+71568	3581047	0.7	G|V	1.0|1.0	Rv3203	lipV	137	Possible lipase LipV
+72565	3645990	0.7	G|R	1.0|1.0	Rv3265c	wbbL1	299	dTDP-RHA, a-D-Glc00c-diphosphoryl polyprenol,a-3-L-rhamnosyl transferase WbbL1 (alpha-L-rhamnose-(1->3)-alpha-D-Glc00c(1->P)-P- decaprenyl)
+79054	3906644	0.7	L|V	1.0|1.0	Rv3487c	lipF	122	Probable esterase/lipase LipF
+88983	4355184	0.7	E|K	1.0|1.0	Rv3877	eccD1	60	ESX conserved component EccD1 ESX-1 type VII secretion system protein Probable transmembrane protein
+90314	4402376	0.7	V|M	1.0|1.0	Rv3913	trxB2	217	Probable thioredoxin reductase TrxB2 (TRXR) (TR)
+#### <--
+#### -->
+		Split 1.1.1.1:	Lineage_1.2 | EAI
+4127	189948	0.7	K|N	1.0|1.0	Rv0160c	PE4	164	PE family protein PE4
+10952	471666	0.7	M|T	1.0|1.0	Rv0392c	ndhA	325	Probable membrane 00DH dehydroge00se NdhA
+28404	1320614	0.7	L|V	1.0|1.0	Rv1182	papA3	194	Probable conserved polyketide synthase associated protein PapA3
+72922	3671532	0.7	A|G	1.0|1.0	Rv3290c	lat	88	Probable L-lysine-epsilon aminotransferase Lat (L-lysine aminotransferase) (lysine 6-aminotransferase)
+83497	4058711	0.7	L|S	1.0|1.0	Rv3618		5	Possible monooxyge00se
+85673	4187063	0.7	G|R	1.0|1.0	Rv3736		144	Transcriptio00l regulatory protein (probably AraC/XylS-family)
+85729	4189721	0.7	T|N	1.0|1.0	Rv3738c	PPE66	171	PPE family protein PPE66
+87464	4275935	0.7	M|V	1.0|1.0	Rv3811		380	hypothetical protein
+6100	290374	0.69	H,R|R	0.98,0.01|1.0	Rv0241c	htdX	94	Probable 3-hydroxyacyl-thioester dehydratase HtdX
+9091	393941	0.69	I,M|I	0.02,0.97|1.0	Rv0327c	cyp135A1	35	Possible cytochrome P450 135A1 Cyp135A1
+9548	420405	0.69	C,R|C	0.01,0.98|1.0	Rv0350	d00K	191	Probable chaperone protein D00K (heat shock protein 70) (heat shock 70 kDa protein) (HSP70)
+22615	1043136	0.69	I,T|I	0.02,0.97|1.0	Rv0934	pstS1	341	Periplasmic phosphate-binding lipoprotein PstS1 (PBP-1) (PstS1)
+24897	1157771	0.69	C,S|C	0.01,0.98|1.0	Rv1032c	trcS	62	Two component sensor histidine ki00se TrcS
+41657	1979026	0.69	N,S|N	0.01,0.98|1.0	Rv1750c	fadD1	181	Possible fatty-acid-CoA ligase FadD1 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)
+73507	3704261	0.69	I,L|I	0.01,0.98|1.0	Rv3316	sdhC	54	Probable succi00te dehydroge00se (cytochrome B-556 subunit) SdhC (succinic dehydroge00se) (fumarate reductase) (fumarate dehydroge00se) (fumaric hydroge00se)
+#### <--
+#### -->
+		Split 1.1.1.1.1:	Lineage_1.2 | M.bovis
+137	6446	0.7	A|S	1.0|1.0	Rv0005	gyrB	403	D00 gyrase (subunit B) GyrB (D00 topoisomerase (ATP-hydrolysing)) (D00 topoisomerase II) (type II D00 topoisomerase)
+4368	200430	0.7	I|T	1.0|1.0	Rv0170	mce1B	179	Mce-family protein Mce1B
+22104	1014815	0.7	H|Q	1.0|1.0	Rv0909		45	hypothetical protein
+56883	2790458	0.7	C|G	1.0|1.0	Rv2483c	plsC	189	Possible transmembrane phospholipid biosynthesis bifunctio00l enzyme PlsC
+59673	2913087	0.7	A|T	1.0|1.0	Rv2586c	secF	309	Probable protein-export membrane protein SecF
+65975	3254880	0.7	R|L	1.0|1.0	Rv2932	ppsB	1270	Phenolpthiocerol synthesis type-I polyketide synthase PpsB
+77026	3808103	0.7	N|S	1.0|1.0	Rv3392c	cmaA1	112	Cyclopropane-fatty-acyl-phospholipid synthase 1 CmaA1 (cyclopropane fatty acid synthase) (CFA synthase) (cyclopropane mycolic acid synthase 1)
+77093	3811629	0.7	A|V	1.0|1.0	Rv3395c		3	hypothetical protein
+84872	4140143	0.7	G|R	1.0|1.0	Rv3697c	vapC48	34	Possible toxin VapC48 Contains PIN domain
+89490	4374228	0.7	T|A	1.0|1.0	Rv3891c	esxD	49	Possible ESAT-6 like protein EsxD
+#### <--
+#### -->
+		Split 1.1.1.1.1.1:	Lineage_1.2 | M.canettii
+24050	1106962	0.7	V|I	1.0|1.0	Rv0989c	grcC2	141	Probable polyprenyl-diphosphate synthase GrcC2 (polyprenyl pyrophosphate synthetase)
+28868	1341073	0.7	L|S	1.0|1.0	Rv1198	esxL	23	Putative ESAT-6 like protein EsxL (ESAT-6 like protein 4)
+28871	1341102	0.7	R|S	1.0|1.0	Rv1198	esxL	33	Putative ESAT-6 like protein EsxL (ESAT-6 like protein 4)
+56883	2790458	0.7	C|G	1.0|1.0	Rv2483c	plsC	189	Possible transmembrane phospholipid biosynthesis bifunctio00l enzyme PlsC
+65701	3244126	0.7	V|I	1.0|1.0	Rv2930	fadD26	144	Fatty-acid-AMP ligase FadD26 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)
+65975	3254880	0.7	R|L	1.0|1.0	Rv2932	ppsB	1270	Phenolpthiocerol synthesis type-I polyketide synthase PpsB
+66371	3277456	0.7	T|P	1.0|1.0	Rv2940c	mas	1754	Probable multifunctio00l mycocerosic acid synthase membrane-associated Mas
+77026	3808103	0.7	N|S	1.0|1.0	Rv3392c	cmaA1	112	Cyclopropane-fatty-acyl-phospholipid synthase 1 CmaA1 (cyclopropane fatty acid synthase) (CFA synthase) (cyclopropane mycolic acid synthase 1)
+82843	4031277	0.7	R|Q	1.0|1.0	Rv3589	mutY	262	Probable adenine glycosylase MutY
+89490	4374228	0.7	T|A	1.0|1.0	Rv3891c	esxD	49	Possible ESAT-6 like protein EsxD
+#### <--
+
+
+#### -->
+		Split 1.1.1.1.1.2:	M.bovis | M.canettii
+137	6446	0.7	S|A	1.0|1.0	Rv0005	gyrB	403	D00 gyrase (subunit B) GyrB (D00 topoisomerase (ATP-hydrolysing)) (D00 topoisomerase II) (type II D00 topoisomerase)
+5424	256182	0.7	A|G	1.0|1.0	Rv0214	fadD4	40	Probable fatty-acid-CoA ligase FadD4 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)
+16183	722583	0.7	F|V	1.0|1.0	Rv0630c	recB	811	Probable exonuclease V (beta chain) RecB (exodeoxyribonuclease V beta chain)(exodeoxyribonuclease V polypeptide) (chi-specific endonuclease)
+16294	727321	0.7	E|G	1.0|1.0	Rv0631c	recC	329	Probable exonuclease V (gamma chain) RecC (exodeoxyribonuclease V gamma chain)(exodeoxyribonuclease V polypeptide)
+22913	1062745	0.7	A|V	1.0|1.0	Rv0951	sucC	261	Probable succinyl-CoA synthetase (beta chain) SucC (SCS-beta)
+24050	1106962	0.7	V|I	1.0|1.0	Rv0989c	grcC2	141	Probable polyprenyl-diphosphate synthase GrcC2 (polyprenyl pyrophosphate synthetase)
+39130	1860392	0.7	V|A	1.0|1.0	Rv1650	pheT	212	Probable phenylalanyl-tR00 synthetase, beta chain PheT
+45864	2175390	0.7	D|G	1.0|1.0	Rv1923	lipD	73	Probable lipase LipD
+65701	3244126	0.7	V|I	1.0|1.0	Rv2930	fadD26	144	Fatty-acid-AMP ligase FadD26 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)
+67545	3345047	0.7	E|D	1.0|1.0	Rv2988c	leuC	343	Probable 3-isopropylmalate dehydratase (large subunit) LeuC (isopropylmalate isomerase) (alpha-IPM isomerase) (IPMI)
+67677	3352919	0.7	L|F	1.0|1.0	Rv2995c	leuB	184	Probable 3-isopropylmalate dehydroge00se LeuB (beta-IPM dehydroge00se) (IMDH) (3-IPM-DH)
+72765	3661382	0.7	N|D	1.0|1.0	Rv3279c	birA	211	Possible bifunctio00l protein BirA, biotin operon repressor + biotin--[acetyl-CoA-carboxylase] synthetase (biotin--protein ligase)
+78516	3879288	0.7	N|K	1.0|1.0	Rv3459c	rpsK	135	30S ribosomal protein S11 RpsK
+82843	4031277	0.7	R|Q	1.0|1.0	Rv3589	mutY	262	Probable adenine glycosylase MutY
+90309	4401897	0.7	G|D	1.0|1.0	Rv3913	trxB2	57	Probable thioredoxin reductase TrxB2 (TRXR) (TR)
+#### <--
+
+
+#### -->
+		Split 1.1.1.1.2:	EAI | M.canettii&M.bovis
+5556	263149	0.7	A|E	1.0|1.0	Rv0220	lipC	113	Probable esterase LipC
+9548	420405	0.7	C|R	1.0|1.0	Rv0350	d00K	191	Probable chaperone protein D00K (heat shock protein 70) (heat shock 70 kDa protein) (HSP70)
+16953	763884	0.7	V|A	1.0|1.0	Rv0668	rpoC	172	D00-directed R00 polymerase (beta' chain) RpoC (transcriptase beta' chain) (R00 polymerase beta' subunit)
+22615	1043136	0.7	I|T	1.0|1.0	Rv0934	pstS1	341	Periplasmic phosphate-binding lipoprotein PstS1 (PBP-1) (PstS1)
+23397	1086648	0.7	L|R	1.0|1.0	Rv0974c	accD2	233	Probable acetyl-/propionyl-CoA carboxylase (beta subunit) AccD2
+26762	1228116	0.7	T|I	1.0|1.0	Rv1099c	glpX	190	Fructose 1,6-bisphosphatase GlpX
+33786	1601528	0.7	Y|C	1.0|1.0	Rv1426c	lipO	265	Probable esterase LipO
+36876	1739390	0.7	A|T	1.0|1.0	Rv1536	ileS	958	Isoleucyl-tR00 synthetase IleS
+39518	1873954	0.7	L|R	1.0|1.0	Rv1659	argH	439	Probable argininosucci00te lyase ArgH
+50128	2397760	0.7	G|A	1.0|1.0	Rv2138	lppL	144	Probable conserved lipoprotein LppL
+57853	2817158	0.7	I|M	1.0|1.0	Rv2502c	accD1	439	Probable acetyl-/propionyl-CoA carboxylase (beta subunit) AccD1
+68579	3406798	0.7	T|A	1.0|1.0	Rv3045	adhC	172	Probable 00DP-dependent alcohol dehydroge00se AdhC
+73227	3687372	0.7	S|L	1.0|1.0	Rv3301c	phoY1	69	Probable phosphate-transport system transcriptio00l regulatory protein PhoU homolog 1 PhoY1
+77940	3851084	0.7	T|I	1.0|1.0	Rv3432c	gadB	224	Probable glutamate decarboxylase GadB
+84370	4106154	0.7	K|E	1.0|1.0	Rv3666c	dppA	311	Probable periplasmic dipeptide-binding lipoprotein DppA
+#### <--
+
+#### -->
+		Split 1.1.1.1.2.2:	M.bovis | M.canettii
+137	6446	0.7	S|A	1.0|1.0	Rv0005	gyrB	403	D00 gyrase (subunit B) GyrB (D00 topoisomerase (ATP-hydrolysing)) (D00 topoisomerase II) (type II D00 topoisomerase)
+5424	256182	0.7	A|G	1.0|1.0	Rv0214	fadD4	40	Probable fatty-acid-CoA ligase FadD4 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)
+16183	722583	0.7	F|V	1.0|1.0	Rv0630c	recB	811	Probable exonuclease V (beta chain) RecB (exodeoxyribonuclease V beta chain)(exodeoxyribonuclease V polypeptide) (chi-specific endonuclease)
+16294	727321	0.7	E|G	1.0|1.0	Rv0631c	recC	329	Probable exonuclease V (gamma chain) RecC (exodeoxyribonuclease V gamma chain)(exodeoxyribonuclease V polypeptide)
+22913	1062745	0.7	A|V	1.0|1.0	Rv0951	sucC	261	Probable succinyl-CoA synthetase (beta chain) SucC (SCS-beta)
+24050	1106962	0.7	V|I	1.0|1.0	Rv0989c	grcC2	141	Probable polyprenyl-diphosphate synthase GrcC2 (polyprenyl pyrophosphate synthetase)
+39130	1860392	0.7	V|A	1.0|1.0	Rv1650	pheT	212	Probable phenylalanyl-tR00 synthetase, beta chain PheT
+45864	2175390	0.7	D|G	1.0|1.0	Rv1923	lipD	73	Probable lipase LipD
+65701	3244126	0.7	V|I	1.0|1.0	Rv2930	fadD26	144	Fatty-acid-AMP ligase FadD26 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)
+67545	3345047	0.7	E|D	1.0|1.0	Rv2988c	leuC	343	Probable 3-isopropylmalate dehydratase (large subunit) LeuC (isopropylmalate isomerase) (alpha-IPM isomerase) (IPMI)
+67677	3352919	0.7	L|F	1.0|1.0	Rv2995c	leuB	184	Probable 3-isopropylmalate dehydroge00se LeuB (beta-IPM dehydroge00se) (IMDH) (3-IPM-DH)
+72765	3661382	0.7	N|D	1.0|1.0	Rv3279c	birA	211	Possible bifunctio00l protein BirA, biotin operon repressor + biotin--[acetyl-CoA-carboxylase] synthetase (biotin--protein ligase)
+78516	3879288	0.7	N|K	1.0|1.0	Rv3459c	rpsK	135	30S ribosomal protein S11 RpsK
+82843	4031277	0.7	R|Q	1.0|1.0	Rv3589	mutY	262	Probable adenine glycosylase MutY
+90309	4401897	0.7	G|D	1.0|1.0	Rv3913	trxB2	57	Probable thioredoxin reductase TrxB2 (TRXR) (TR)
+#### <--
+
+
+
+#### -->
+		Split 1.1.2:	Lineage_4.1 | Lineage_4.2&3
+324	14785	0.69	C,R|C,R	0.98,0.01|0.0,0.99	Rv0012		233	Probable conserved membrane protein
+15423	686972	0.69	F,S|F,S	0.99,0.0|0.0,0.99	Rv0589	mce2A	51	Mce-family protein Mce2A
+21722	993346	0.69	V|G,V	1.0|0.98,0.01	Rv0891c		37	Possible transcriptio00l regulatory protein
+32735	1547125	0.69	A,T|A,T	0.0,0.99|0.98,0.01	Rv1374c		136	Hypothetical protein
+47796	2285251	0.69	F,V|F,V	0.01,0.98|0.99,0.0	Rv2039c		131	Probable sugar-transport integral membrane protein ABC transporter
+61699	3017465	0.69	I,T|I,T	0.99,0.0|0.0,0.99	Rv2702	ppgK	203	Polyphosphate glucoki00se PpgK (polyphosphate-glucose phosphotransferase)
+73512	3704596	0.69	L,V|L,V	0.0,0.99|0.98,0.01	Rv3317	sdhD	54	Probable succi00te dehydroge00se (hydrophobic membrane anchor subunit) SdhD (succinic dehydroge00se) (fumarate reductase) (fumarate dehydroge00se) (fumaric hydroge00se)
+91	4013	0.68	I,T|I,T	0.97,0.02|0.0,0.99	Rv0003	recF	245	D00 replication and repair protein RecF (single-strand D00 binding protein)
+14302	648002	0.68	L|L,R	1.0|0.02,0.97	Rv0556		15	Probable conserved transmembrane protein
+27708	1281118	0.68	A,T|A,T	0.02,0.97|0.99,0.0	Rv1154c		123	Hypothetical protein
+47749	2282787	0.68	C,Y|C,Y	0.97,0.02|0.0,0.99	Rv2037c		312	Conserved transmembrane protein
+67770	3358235	0.68	L,M|L,M	0.02,0.97|0.98,0.01	Rv2999	lppY	212	Probable conserved lipoprotein LppY
+158	7362	0.67	E,Q|E,Q	0.96,0.03|0.0,0.99	Rv0006	gyrA	21	D00 gyrase (subunit A) GyrA (D00 topoisomerase (ATP-hydrolysing)) (D00 topoisomerase II) (type II D00 topoisomerase)
+37207	1760292	0.67	M,V|M,V	0.96,0.03|0.0,0.99	Rv1554	frdC	40	Probable fumarate reductase [membrane anchor subunit] FrdC (fumarate dehydroge00se) (fumaric hydroge00se)
+38116	1803265	0.67	N,S|N,S	0.04,0.95|0.99,0.0	Rv1602	hisH	201	Probable amidotransferase HisH
+#### <--
+#### -->
+		Split 1.1.2.1:	Lineage_4.1 | Lineage_1.2
+14709	670545	0.64	H,R|H,R	0.02,0.97|0.93,0.06	Rv0576		233	Probable transcriptio00l regulatory protein (possibly ArsR-family)
+58236	2841022	0.64	C,R|C,R	0.97,0.02|0.06,0.93	Rv2524c	fas	2771	Probable fatty acid synthase Fas (fatty acid synthetase)
+61903	3031168	0.61	H,Y|H,Y	0.0,0.99|0.87,0.12	Rv2719c		124	Possible conserved membrane protein
+15970	713310	0.6	C,R|C,R	0.97,0.02|0.11,0.88	Rv0620	galK	199	Probable galactoki00se GalK (galactose ki00se)
+40803	1931718	0.59	L,V|L,V	0.96,0.03|0.12,0.87	Rv1705c	PPE22	313	PPE family protein PPE22
+61864	3027798	0.59	A,V|A,V	0.03,0.96|0.87,0.12	Rv2714		245	Conserved alanine and leucine rich protein
+23265	1080192	0.57	D|D,N	1.0|0.19,0.8	Rv0969	ctpV	484	Probable metal cation transporter P-type ATPase CtpV
+945	42281	0.54	C,F|C,F	0.98,0.01|0.21,0.78	Rv0039c		24	Possible conserved transmembrane protein
+48697	2328543	0.53	I|I,M	1.0|0.23,0.76	Rv2071c	cobM	145	Precorrin-3 methylase CobM (precorrin-4 C11-methyltransferase)
+63815	3133055	0.53	S,W|S,W	0.95,0.04|0.19,0.8	Rv2825c		162	hypothetical protein
+50351	2413246	0.52	L,V|L,V	0.05,0.94|0.79,0.2	Rv2153c	murG	36	Probable UPD-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol-N-acetylglucosamine transferase MurG
+61167	2988630	0.52	D,H|D,H	0.0,0.99|0.75,0.24	Rv2672		317	Possible secreted protease
+82420	4005114	0.52	S,W|S,W	0.0,0.99|0.74,0.25	Rv3563	fadE32	275	Probable acyl-CoA dehydroge00se FadE32
+20600	932280	0.5	*,W|*,W	0.99,0.0|0.27,0.72	Rv0836c		218	Hypothetical protein
+22268	1024346	0.5	S|G,S	1.0|0.72,0.27	Rv0918		46	hypothetical protein
+38736	1839759	0.5	G|G,R	1.0|0.29,0.7	Rv1634		198	Possible drug efflux membrane protein
+73278	3690016	0.5	L,S|L,S	0.99,0.0|0.27,0.72	Rv3303c	lpdA	308	00D(P)H quinone reductase LpdA
+86348	4223172	0.5	A,V|A,V	0.19,0.8|0.9,0.09	Rv3777		160	Probable oxidoreductase
+#### <--
+
+
+#### -->
+		Split 1.1.2.2:	Lineage_4.3 | Ural
+345	15517	0.7	R|G,R	1.0|0.99,0.0	Rv0013	trpG	202	Possible anthranilate synthase component II TrpG (glutamine amidotransferase)
+4432	202675	0.7	I|I,T	1.0|0.0,0.99	Rv0172	mce1D	67	Mce-family protein Mce1D
+6352	306639	0.7	E|E,G	1.0|0.0,0.99	Rv0255c	cobQ1	407	Probable cobyric acid synthase CobQ1
+16468	738902	0.7	D|D,N	1.0|0.0,0.99	Rv0644c	mmaA2	87	Methoxy mycolic acid synthase 2 MmaA2 (methyl mycolic acid synthase 2) (MMA2) (hydroxy mycolic acid synthase)
+16785	756216	0.7	D|G	1.0|1.0	Rv0663	atsD	27	Possible arylsulfatase AtsD (aryl-sulfate sulphohydrolase) (arylsulphatase)
+34389	1626857	0.7	V|I,V	1.0|0.99,0.0	Rv1447c	zwf2	36	Probable glucose-6-phosphate 1-dehydroge00se Zwf2 (G6PD)
+38211	1808795	0.7	D|A	1.0|1.0	Rv1609	trpE	298	Anthranilate synthase component I TrpE (glutamine amidotransferase)
+39397	1867838	0.7	S|N	1.0|1.0	Rv1653	argJ	403	Probable glutamate N-acetyltransferase ArgJ
+45821	2173033	0.7	W|R	1.0|1.0	Rv1921c	lppF	255	Probable conserved lipoprotein LppF
+52569	2540441	0.7	L|P	1.0|1.0	Rv2266	cyp124	113	Probable cytochrome P450 124 Cyp124
+56935	2793706	0.7	L|F	1.0|1.0	Rv2485c	lipQ	95	Probable carboxylesterase LipQ
+65584	3233940	0.7	A|G	1.0|1.0	Rv2921c	ftsY	67	Probable cell division protein FtsY (SRP receptor) (sig00l recognition particle receptor)
+68567	3406045	0.7	A|T	1.0|1.0	Rv3044	fecB	304	Probable FEIII-dicitrate-binding periplasmic lipoprotein FecB
+86462	4230033	0.7	V|A,V	1.0|0.99,0.0	Rv3783	rfbD	259	Probable O-antigen/lipopolysaccharide transport integral membrane protein ABC transporter RfbD
+90376	4406116	0.7	A|S	1.0|1.0	Rv3917c	parB	126	Probable chromosome partitioning protein ParB
+#### <--
+#### -->
+		Split 1.1.2.2.1:	Haarlem&S-type | Lineage_4.3
+14320	648990	0.7	P|R	1.0|1.0	Rv0557	mgtA	152	Mannosyltransferase MgtA
+19859	909724	0.7	V|L	1.0|1.0	Rv0816c	thiX	104	Probable thioredoxin ThiX
+26836	1234262	0.7	G|A	1.0|1.0	Rv1108c	xseA	400	Probable exodeoxyribonuclease VII (large subunit) XseA (exonuclease VII large subunit)
+35951	1688649	0.7	P|A	1.0|1.0	Rv1497	lipL	237	Probable esterase LipL
+36329	1712824	0.7	A|T	1.0|1.0	Rv1521	fadD25	175	Probable fatty-acid-AMP ligase FadD25 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)
+39171	1861804	0.7	C|G	1.0|1.0	Rv1650	pheT	683	Probable phenylalanyl-tR00 synthetase, beta chain PheT
+39367	1865976	0.7	L|P	1.0|1.0	Rv1652	argC	134	Probable N-acetyl-gamma-glutamyl-phoshate reductase ArgC
+43427	2053987	0.7	H|R	1.0|1.0	Rv1811	mgtC	182	Possible Mg2+ transport P-type ATPase C MgtC
+56838	2788298	0.7	G|D	1.0|1.0	Rv2482c	plsB2	329	Probable glycerol-3-phosphate acyltransferase PlsB2 (GPAT)
+86654	4239298	0.7	V|A	1.0|1.0	Rv3792	aftA	456	Arabinofuranosyltransferase AftA
+#### <--
+#### -->
+		Split 1.1.2.2.1.1:	Haarlem | S-type
+5355	252083	0.7	N|T	1.0|1.0	Rv0211	pckA	101	Probable iron-regulated phosphoenolpyruvate carboxyki00se [GTP] PckA (phosphoenolpyruvate carboxylase) (PEPCK)(pep carboxyki00se)
+5933	283313	0.7	T|I	1.0|1.0	Rv0236c	aftD	1180	Possible arabinofuranosyltransferase AftD
+11651	506386	0.7	I|T	1.0|1.0	Rv0419	lpqM	434	Possible lipoprotein peptidase LpqM
+24453	1130261	0.7	R|H	1.0|1.0	Rv1011	ispE	24	Probable 4-diphosphocytidyl-2-C-methyl-D-erythritol ki00se IspE (CMK) (4-(cytidine-5'-diphospho)-2-C-methyl-D-erythritol ki00se)
+30801	1446543	0.7	K|N	1.0|1.0	Rv1292	argS	55	Probable arginyl-tR00 synthetase ArgS (ARGRS) (arginine--tR00 ligase)
+39149	1861042	0.7	I|V	1.0|1.0	Rv1650	pheT	429	Probable phenylalanyl-tR00 synthetase, beta chain PheT
+40919	1938311	0.7	V|I	1.0|1.0	Rv1710	scpB	56	Possible segregation and condensation protein ScpB
+49863	2383922	0.7	L|M	1.0|1.0	Rv2124c	metH	716	5-methyltetrahydrofolate--homocystein methyltransferase MetH (methionine synthase, vitamin-B12 dependent isozyme) (ms)
+50428	2416167	0.7	F|L	1.0|1.0	Rv2155c	murD	76	Probable UDP-N-acetylmuramoylalanine-D-glutamate ligase MurD
+57887	2819180	0.7	V|M	1.0|1.0	Rv2504c	scoA	231	Probable succinyl-CoA:3-ketoacid-coenzyme A transferase (alpha subunit) ScoA (3-oxo acid:CoA transferase) (OXCT A) (succinyl-CoA:3-oxoacid-coenzyme A transferase)
+62503	3062139	0.7	M|T	1.0|1.0	Rv2748c	ftsK	123	Possible cell division transmembrane protein FtsK
+63105	3097404	0.7	P|L	1.0|1.0	Rv2788	sirR	149	Probable transcriptio00l repressor SirR
+67935	3369382	0.7	A|V	1.0|1.0	Rv3010c	pfkA	158	Probable 6-phosphofructoki00se PfkA (phosphohexoki00se) (phosphofructoki00se)
+76442	3784011	0.7	A|T	1.0|1.0	Rv3370c	d00E2	244	Probable D00 polymerase III (alpha chain) D00E2 (D00 nucleotidyltransferase)
+83392	4051823	0.7	D|G	1.0|1.0	Rv3610c	ftsH	354	Membrane-bound protease FtsH (cell division protein)
+#### <--
+
+
+#### -->
+		Split 1.1.2.2.1.2:	Lineage_4.3 | S-type
+5355	252083	0.7	N|T	1.0|1.0	Rv0211	pckA	101	Probable iron-regulated phosphoenolpyruvate carboxyki00se [GTP] PckA (phosphoenolpyruvate carboxylase) (PEPCK)(pep carboxyki00se)
+5933	283313	0.7	T|I	1.0|1.0	Rv0236c	aftD	1180	Possible arabinofuranosyltransferase AftD
+11651	506386	0.7	I|T	1.0|1.0	Rv0419	lpqM	434	Possible lipoprotein peptidase LpqM
+24453	1130261	0.7	R|H	1.0|1.0	Rv1011	ispE	24	Probable 4-diphosphocytidyl-2-C-methyl-D-erythritol ki00se IspE (CMK) (4-(cytidine-5'-diphospho)-2-C-methyl-D-erythritol ki00se)
+30801	1446543	0.7	K|N	1.0|1.0	Rv1292	argS	55	Probable arginyl-tR00 synthetase ArgS (ARGRS) (arginine--tR00 ligase)
+39149	1861042	0.7	I|V	1.0|1.0	Rv1650	pheT	429	Probable phenylalanyl-tR00 synthetase, beta chain PheT
+40919	1938311	0.7	V|I	1.0|1.0	Rv1710	scpB	56	Possible segregation and condensation protein ScpB
+49863	2383922	0.7	L|M	1.0|1.0	Rv2124c	metH	716	5-methyltetrahydrofolate--homocystein methyltransferase MetH (methionine synthase, vitamin-B12 dependent isozyme) (ms)
+50428	2416167	0.7	F|L	1.0|1.0	Rv2155c	murD	76	Probable UDP-N-acetylmuramoylalanine-D-glutamate ligase MurD
+57887	2819180	0.7	V|M	1.0|1.0	Rv2504c	scoA	231	Probable succinyl-CoA:3-ketoacid-coenzyme A transferase (alpha subunit) ScoA (3-oxo acid:CoA transferase) (OXCT A) (succinyl-CoA:3-oxoacid-coenzyme A transferase)
+62503	3062139	0.7	M|T	1.0|1.0	Rv2748c	ftsK	123	Possible cell division transmembrane protein FtsK
+63105	3097404	0.7	P|L	1.0|1.0	Rv2788	sirR	149	Probable transcriptio00l repressor SirR
+67935	3369382	0.7	A|V	1.0|1.0	Rv3010c	pfkA	158	Probable 6-phosphofructoki00se PfkA (phosphohexoki00se) (phosphofructoki00se)
+76442	3784011	0.7	A|T	1.0|1.0	Rv3370c	d00E2	244	Probable D00 polymerase III (alpha chain) D00E2 (D00 nucleotidyltransferase)
+83392	4051823	0.7	D|G	1.0|1.0	Rv3610c	ftsH	354	Membrane-bound protease FtsH (cell division protein)
+#### <--
+#### -->
+		Split 1.1.2.2.1.2.1:	Lineage_4.3 | EAI
+13137	595501	0.7	A|V	1.0|1.0	Rv0505c	serB1	362	Possible phosphoserine phosphatase SerB1 (PSP) (O-phosphoserine phosphohydrolase) (pspase)
+15680	700776	0.7	S|P	1.0|1.0	Rv0604	lpqO	180	Probable conserved lipoprotein LpqO
+16197	722852	0.7	P|L	1.0|1.0	Rv0630c	recB	721	Probable exonuclease V (beta chain) RecB (exodeoxyribonuclease V beta chain)(exodeoxyribonuclease V polypeptide) (chi-specific endonuclease)
+16953	763884	0.7	A|V	1.0|1.0	Rv0668	rpoC	172	D00-directed R00 polymerase (beta' chain) RpoC (transcriptase beta' chain) (R00 polymerase beta' subunit)
+23397	1086648	0.7	R|L	1.0|1.0	Rv0974c	accD2	233	Probable acetyl-/propionyl-CoA carboxylase (beta subunit) AccD2
+23865	1097023	0.7	G|S	1.0|1.0	Rv0981	mprA	68	Mycobacterial persistence regulator MRPA (two component response transcriptio00l regulatory protein)
+31759	1492194	0.7	D|G	1.0|1.0	Rv1326c	glgB	40	1,4-alpha-glucan branching enzyme GlgB (glycogen branching enzyme)
+33786	1601528	0.7	C|Y	1.0|1.0	Rv1426c	lipO	265	Probable esterase LipO
+36876	1739390	0.7	T|A	1.0|1.0	Rv1536	ileS	958	Isoleucyl-tR00 synthetase IleS
+38932	1849191	0.7	I|V	1.0|1.0	Rv1640c	lysX	949	Lysyl-tR00 synthetase 2 LysX
+55192	2688225	0.7	M|I	1.0|1.0	Rv2394	ggtB	72	Probable gamma-glutamyltranspeptidase precursor GgtB (gamma-glutamyltransferase) (glutamyl transpeptidase)
+55885	2727037	0.7	M|L	1.0|1.0	Rv2429	ahpD	78	Alkyl hydroperoxide reductase D protein AhpD (alkyl hydroperoxidase D)
+57853	2817158	0.7	M|I	1.0|1.0	Rv2502c	accD1	439	Probable acetyl-/propionyl-CoA carboxylase (beta subunit) AccD1
+72266	3624486	0.7	D|G	1.0|1.0	Rv3244c	lpqB	142	Probable conserved lipoprotein LpqB
+78162	3861914	0.7	A|T	1.0|1.0	Rv3442c	rpsI	13	30S ribosomal protein S9 RpsI
+#### <--
+
+
+
+
+#### -->
+		Split 1.2:	X-type | Modern_Asian
+11225	484596	0.7	P|L,P	1.0|0.99,0.0	Rv0404	fadD30	207	Fatty-acid-AMP ligase FadD30 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)
+2606	123454	0.69	Q|*,Q	1.0|0.98,0.01	Rv0104		380	hypothetical protein
+2612	123520	0.69	H,Y|H,Y	0.0,0.99|0.99,0.0	Rv0104		402	hypothetical protein
+15423	686972	0.69	F|F,S	1.0|0.02,0.97	Rv0589	mce2A	51	Mce-family protein Mce2A
+23995	1104690	0.69	F,V|F,V	0.99,0.0|0.0,0.99	Rv0987		717	Probable adhesion component transport transmembrane protein ABC transporter
+32735	1547125	0.69	A,T|A,T	0.0,0.99|0.98,0.01	Rv1374c		136	Hypothetical protein
+36030	1693561	0.69	C,Y|C	0.01,0.98|1.0	Rv1502		213	Hypothetical protein
+48820	2335075	0.69	E,G|E,G	0.99,0.0|0.0,0.99	Rv2078		6	hypothetical protein
+56809	2786952	0.69	C|C,R	1.0|0.01,0.98	Rv2482c	plsB2	778	Probable glycerol-3-phosphate acyltransferase PlsB2 (GPAT)
+66904	3304966	0.69	G,R|G,R	0.99,0.0|0.0,0.99	Rv2952		176	Possible methyltransferase (methylase)
+69884	3480474	0.69	E,G|E,G	0.0,0.99|0.99,0.0	Rv3113		134	Possible phosphatase
+81748	3968006	0.69	F|F,L	1.0|0.01,0.98	Rv3531c		313	Hypothetical protein
+81897	3976595	0.69	R|R,S	1.0|0.01,0.98	Rv3537	kstD	409	Probable dehydroge00se
+27204	1254562	0.68	D|D,G	1.0|0.03,0.96	Rv1130	prpD	3	Possible methylcitrate dehydratase PrpD
+57856	2817502	0.68	F,V|F,V	0.97,0.02|0.0,0.99	Rv2502c	accD1	325	Probable acetyl-/propionyl-CoA carboxylase (beta subunit) AccD1
+#### <--
+#### -->
+		Split 1.2.1:	X-type | Lineage_1.2
+13892	627485	0.66	I|I,V	1.0|0.05,0.94	Rv0536	galE3	80	Probable UDP-glucose 4-epimerase GalE3 (galactowalde00se) (UDP-galactose 4-epimerase) (uridine diphosphate galactose 4-epimerase) (uridine diphospho-galactose 4-epimerase)
+58781	2867347	0.66	Q,R|Q,R	0.03,0.96|0.97,0.02	Rv2544	lppB	75	Probable conserved lipoprotein LppB
+58829	2867536	0.66	A,V|A,V	0.02,0.97|0.95,0.04	Rv2544	lppB	138	Probable conserved lipoprotein LppB
+58830	2867538	0.66	A,T|A,T	0.02,0.97|0.95,0.04	Rv2544	lppB	139	Probable conserved lipoprotein LppB
+58833	2867575	0.66	A,V|A,V	0.97,0.02|0.03,0.96	Rv2544	lppB	151	Probable conserved lipoprotein LppB
+32666	1541798	0.65	A,V|A,V	0.04,0.95|0.97,0.02	Rv1368	lprF	260	Probable conserved lipoprotein LprF
+58828	2867532	0.65	I,V|I,V	0.03,0.96|0.95,0.04	Rv2544	lppB	137	Probable conserved lipoprotein LppB
+58776	2867298	0.64	H,N|H,N	0.06,0.93|0.97,0.02	Rv2544	lppB	59	Probable conserved lipoprotein LppB
+58742	2866880	0.63	A,V|A,V	0.06,0.93|0.95,0.04	Rv2543	lppA	138	Probable conserved lipoprotein LppA
+58743	2866882	0.62	A,T|A,T	0.07,0.92|0.96,0.03	Rv2543	lppA	139	Probable conserved lipoprotein LppA
+58741	2866876	0.59	I,V|I,V	0.03,0.96|0.88,0.11	Rv2543	lppA	137	Probable conserved lipoprotein LppA
+58698	2866744	0.57	D,N|D,N	0.15,0.84|0.96,0.03	Rv2543	lppA	93	Probable conserved lipoprotein LppA
+58699	2866745	0.57	A,D|A,D	0.84,0.15|0.03,0.96	Rv2543	lppA	93	Probable conserved lipoprotein LppA
+58700	2866749	0.57	D,E|D,E	0.15,0.84|0.96,0.03	Rv2543	lppA	94	Probable conserved lipoprotein LppA
+58766	2867230	0.56	D,G|D,G	0.94,0.05|0.15,0.84	Rv2544	lppB	36	Probable conserved lipoprotein LppB
+#### <--
+
+
+#### -->
+		Split 1.2.2:	X-type&CAS | Beijing
+3029	141623	0.66	D,N|D,N	0.94,0.05|0.0,0.99	Rv0117	oxyS	142	Oxidative stress response regulatory protein OxyS
+14134	637319	0.66	P,S|S	0.93,0.06|1.0	Rv0545c	pitA	49	Probable low-affinity inorganic phosphate transporter integral membrane protein PitA
+17422	791249	0.66	A,T|A,T	0.94,0.05|0.0,0.99	Rv0691c		140	Probable transcriptio00l regulatory protein
+46862	2230045	0.66	C,Y|C,Y	0.95,0.04|0.01,0.98	Rv1986		12	Probable conserved integral membrane protein
+1356	65150	0.65	*,W|*	0.07,0.92|1.0	Rv0061c		67	Hypothetical protein
+19989	919351	0.65	C,F|C,F	0.06,0.93|0.99,0.0	Rv0825c		68	hypothetical protein
+21695	991896	0.65	E,G|E,G	0.93,0.06|0.0,0.99	Rv0890c		234	Probable transcriptio00l regulatory protein (probably LuxR-family)
+27204	1254562	0.65	D,G|D,G	0.93,0.06|0.0,0.99	Rv1130	prpD	3	Possible methylcitrate dehydratase PrpD
+58192	2838897	0.65	I,M|I,M	0.02,0.97|0.96,0.03	Rv2522c		215	hypothetical protein
+59052	2880702	0.65	L,V|L,V	0.06,0.93|0.99,0.0	Rv2560		210	Probable proline and glycine rich transmembrane protein
+77329	3826501	0.65	C,R|C,R	0.04,0.95|0.98,0.01	Rv3407	vapB47	84	Possible antitoxin VapB47
+79174	3916386	0.65	R,S|R,S	0.93,0.06|0.01,0.98	Rv3497c	mce4C	191	Mce-family protein Mce4C
+85250	4162339	0.65	A,T|A,T	0.06,0.93|0.99,0.0	Rv3719		12	hypothetical protein
+30803	1446733	0.64	A,T|A,T	0.93,0.06|0.02,0.97	Rv1292	argS	119	Probable arginyl-tR00 synthetase ArgS (ARGRS) (arginine--tR00 ligase)
+52939	2562644	0.64	A,S|A,S	0.91,0.08|0.0,0.99	Rv2290	lppO	16	Probable conserved lipoprotein LppO
+#### <--
+#### -->
+		Split 1.2.2.1:	X-type | CAS
+15423	686972	0.7	F|S	1.0|1.0	Rv0589	mce2A	51	Mce-family protein Mce2A
+23995	1104690	0.7	F,V|V	0.99,0.0|1.0	Rv0987		717	Probable adhesion component transport transmembrane protein ABC transporter
+36030	1693561	0.69	C,Y|C	0.01,0.98|1.0	Rv1502		213	Hypothetical protein
+158	7362	0.68	E,Q|Q	0.96,0.03|1.0	Rv0006	gyrA	21	D00 gyrase (subunit A) GyrA (D00 topoisomerase (ATP-hydrolysing)) (D00 topoisomerase II) (type II D00 topoisomerase)
+14479	657142	0.67	H,R|H	0.03,0.96|1.0	Rv0565c		110	Probable monooxyge00se
+36061	1695796	0.66	A,T|T	0.94,0.05|1.0	Rv1505c		51	hypothetical protein
+335	15117	0.65	I,M|I,M	0.99,0.0|0.06,0.93	Rv0013	trpG	68	Possible anthranilate synthase component II TrpG (glutamine amidotransferase)
+2612	123520	0.65	H,Y|H,Y	0.0,0.99|0.93,0.06	Rv0104		402	hypothetical protein
+5847	278681	0.65	D,H|D	0.07,0.92|1.0	Rv0233	nrdB	33	Ribonucleoside-diphosphate reductase (beta chain) NrdB (ribonucleotide reductase small chain)
+11225	484596	0.65	P|L,P	1.0|0.93,0.06	Rv0404	fadD30	207	Fatty-acid-AMP ligase FadD30 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)
+32735	1547125	0.65	A,T|A,T	0.0,0.99|0.93,0.06	Rv1374c		136	Hypothetical protein
+56809	2786952	0.65	C|C,R	1.0|0.06,0.93	Rv2482c	plsB2	778	Probable glycerol-3-phosphate acyltransferase PlsB2 (GPAT)
+69884	3480474	0.65	E,G|E,G	0.0,0.99|0.93,0.06	Rv3113		134	Possible phosphatase
+81897	3976595	0.65	R|R,S	1.0|0.06,0.93	Rv3537	kstD	409	Probable dehydroge00se
+57856	2817502	0.64	F,V|F,V	0.97,0.02|0.06,0.93	Rv2502c	accD1	325	Probable acetyl-/propionyl-CoA carboxylase (beta subunit) AccD1
+#### <--
+
+
+
+
+
+
+#### ANTIBIOTIC RESISTANCE TABLES
+
+#### -->
+				Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~AMK
+
+	Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr	
+
+	Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~EMB
+86912	4248002	0.0	Q|Q,K	1.0|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86913	4248003	0.0	Q,R|Q,R	0.98,0.01|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86904	4247730	0.0	G,A,X|G,D	0.98,0.0,0.0|0.99,0.0	Rv3795	embB	406	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86890	4247429	0.0	M,V|M,L	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86891	4247431	0.0	M,I|M,I	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+	
+
+	Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA	
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA
+	
+	Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~FLQ
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+00	5413	0.0	M,I|M	0.99,0.0|1.0	Rv0005	gyrB	58	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5902	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	221	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6043	0.0	K|K,N	1.0|0.99,0.0	Rv0005	gyrB	268	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6579	0.0	S|S,F	1.0|0.99,0.0	Rv0005	gyrB	447	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6620	0.0	D|D,N	1.0|0.99,0.0	Rv0005	gyrB	461	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6645	0.0	S|S,R	1.0|0.99,0.0	Rv0005	gyrB	469	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6734	0.0	N|N,Y	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6735	0.0	N|N,S	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6737	0.0	T|T,A	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6738	0.0	T|T,I	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6742	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	501	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+149	6749	0.0	A|A,T	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6750	0.0	A|A,V	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7351	0.0	P,L|P	0.99,0.0|1.0	Rv0006	gyrA	17	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+	Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)		
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+
+	Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~PZA
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+
+	Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+00	761277	0.0	I|I,V	1.0|0.99,0.0	Rv0667	rpoB	491	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)		
+
+	Split 1.1.1.1.1.1.1:	Lineage_1.2 | Lineage_1.2~SM
+17307	781687	0.0	K,R|K,R	0.98,0.01|0.99,0.0	Rv0682	rpsL	43	30S ribosomal protein S12 RpsL	
+17311	781822	0.0	K,R|K,R	0.99,0.0|0.99,0.0	Rv0682	rpsL	88	30S ribosomal protein S12 RpsL	
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~AMK
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr		
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~EMB
+86912	4248002	0.0	Q|Q,K	1.0|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86913	4248003	0.0	Q,R|Q,R	0.98,0.01|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86904	4247730	0.0	G,A,X|G,D	0.98,0.0,0.0|0.99,0.0	Rv3795	embB	406	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86890	4247429	0.0	M,V|M,L	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86891	4247431	0.0	M,I|M,I	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+
+
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA	
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~FLQ
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5413	0.0	M,I|M	0.99,0.0|1.0	Rv0005	gyrB	58	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5902	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	221	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6043	0.0	K|K,N	1.0|0.99,0.0	Rv0005	gyrB	268	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6579	0.0	S|S,F	1.0|0.99,0.0	Rv0005	gyrB	447	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6620	0.0	D|D,N	1.0|0.99,0.0	Rv0005	gyrB	461	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6645	0.0	S|S,R	1.0|0.99,0.0	Rv0005	gyrB	469	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6734	0.0	N|N,Y	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6735	0.0	N|N,S	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6737	0.0	T|T,A	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6738	0.0	T|T,I	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6742	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	501	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+149	6749	0.0	A|A,T	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6750	0.0	A|A,V	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7351	0.0	P,L|P	0.99,0.0|1.0	Rv0006	gyrA	17	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~INH
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG	
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~KAN
+00	2714130	0.0	S|S,F	1.0|0.99,0.0	Rv2416c	eis	402	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714267	0.0	L|L,S	1.0|0.99,0.0	Rv2416c	eis	356	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+55677	2714312	0.0	T,P|T	0.99,0.0|1.0	Rv2416c	eis	341	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714632	0.0	K|K,M	1.0|0.99,0.0	Rv2416c	eis	234	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714650	0.0	V|V,R	1.0|0.99,0.0	Rv2416c	eis	228	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714747	0.0	L,F|L	0.99,0.0|1.0	Rv2416c	eis	196	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714862	0.0	A|A,L	1.0|0.99,0.0	Rv2416c	eis	158	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714882	0.0	P|P,A	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714883	0.0	F|F,S	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715087	0.0	V|V,G	1.0|0.99,0.0	Rv2416c	eis	83	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715175	0.0	A|A,G	1.0|0.99,0.0	Rv2416c	eis	53	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)		
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~PAS	
+00	3073806	0.0	D,E|D,E	0.98,0.01|0.99,0.0	Rv2764c	thyA	223	Probable thymidylate synthase ThyA (ts) (TSASE)
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~PZA pncA=0
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+
+	Split 1.1.2.1.1:	Lineage_4.1 | Lineage_4.1~SM
+17307	781687	0.0	K,R|K,R	0.98,0.01|0.99,0.0	Rv0682	rpsL	43	30S ribosomal protein S12 RpsL	
+17311	781822	0.0	K,R|K,R	0.99,0.0|0.99,0.0	Rv0682	rpsL	88	30S ribosomal protein S12 RpsL	
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~AMK
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr		
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~EMB
+86912	4248002	0.0	Q|Q,K	1.0|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86913	4248003	0.0	Q,R|Q,R	0.98,0.01|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86904	4247730	0.0	G,A,X|G,D	0.98,0.0,0.0|0.99,0.0	Rv3795	embB	406	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86890	4247429	0.0	M,V|M,L	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86891	4247431	0.0	M,I|M,I	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA	
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~FLQ
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5413	0.0	M,I|M	0.99,0.0|1.0	Rv0005	gyrB	58	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5902	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	221	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6043	0.0	K|K,N	1.0|0.99,0.0	Rv0005	gyrB	268	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6579	0.0	S|S,F	1.0|0.99,0.0	Rv0005	gyrB	447	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6620	0.0	D|D,N	1.0|0.99,0.0	Rv0005	gyrB	461	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6645	0.0	S|S,R	1.0|0.99,0.0	Rv0005	gyrB	469	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6734	0.0	N|N,Y	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6735	0.0	N|N,S	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6737	0.0	T|T,A	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6738	0.0	T|T,I	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6742	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	501	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+149	6749	0.0	A|A,T	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6750	0.0	A|A,V	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7351	0.0	P,L|P	0.99,0.0|1.0	Rv0006	gyrA	17	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~PZA
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+
+	Split 1.1.2.1.2:	Lineage_1.2 | Lineage_1.2~SM
+17307	781687	0.0	K,R|K,R	0.98,0.01|0.99,0.0	Rv0682	rpsL	43	30S ribosomal protein S12 RpsL	
+17311	781822	0.0	K,R|K,R	0.99,0.0|0.99,0.0	Rv0682	rpsL	88	30S ribosomal protein S12 RpsL	
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~AMK
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr		
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~EMB
+86912	4248002	0.0	Q|Q,K	1.0|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86913	4248003	0.0	Q,R|Q,R	0.98,0.01|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86904	4247730	0.0	G,A,X|G,D	0.98,0.0,0.0|0.99,0.0	Rv3795	embB	406	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86890	4247429	0.0	M,V|M,L	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86891	4247431	0.0	M,I|M,I	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA	
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~FLQ
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5413	0.0	M,I|M	0.99,0.0|1.0	Rv0005	gyrB	58	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5902	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	221	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6043	0.0	K|K,N	1.0|0.99,0.0	Rv0005	gyrB	268	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6579	0.0	S|S,F	1.0|0.99,0.0	Rv0005	gyrB	447	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6620	0.0	D|D,N	1.0|0.99,0.0	Rv0005	gyrB	461	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6645	0.0	S|S,R	1.0|0.99,0.0	Rv0005	gyrB	469	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6734	0.0	N|N,Y	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6735	0.0	N|N,S	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6737	0.0	T|T,A	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6738	0.0	T|T,I	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6742	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	501	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+149	6749	0.0	A|A,T	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6750	0.0	A|A,V	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7351	0.0	P,L|P	0.99,0.0|1.0	Rv0006	gyrA	17	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~PZA
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+00	761277	0.0	I|I,V	1.0|0.99,0.0	Rv0667	rpoB	491	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)		
+
+	Split 1.1.2.2.1.1.1:	Haarlem | Haarlem~SM
+17307	781687	0.0	K,R|K,R	0.98,0.01|0.99,0.0	Rv0682	rpsL	43	30S ribosomal protein S12 RpsL	
+17311	781822	0.0	K,R|K,R	0.99,0.0|0.99,0.0	Rv0682	rpsL	88	30S ribosomal protein S12 RpsL	
+
+	Split 1.1.2.2.1.1.2:	S-type | S-type~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+
+	Split 1.1.2.2.1.1.2:	S-type | S-type~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+00	761277	0.0	I|I,V	1.0|0.99,0.0	Rv0667	rpoB	491	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~AMK
+
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr		
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~EMB
+86912	4248002	0.0	Q|Q,K	1.0|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86913	4248003	0.0	Q,R|Q,R	0.98,0.01|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86904	4247730	0.0	G,A,X|G,D	0.98,0.0,0.0|0.99,0.0	Rv3795	embB	406	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86890	4247429	0.0	M,V|M,L	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86891	4247431	0.0	M,I|M,I	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA	
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~FLQ
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5413	0.0	M,I|M	0.99,0.0|1.0	Rv0005	gyrB	58	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5902	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	221	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6043	0.0	K|K,N	1.0|0.99,0.0	Rv0005	gyrB	268	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6579	0.0	S|S,F	1.0|0.99,0.0	Rv0005	gyrB	447	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6620	0.0	D|D,N	1.0|0.99,0.0	Rv0005	gyrB	461	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6645	0.0	S|S,R	1.0|0.99,0.0	Rv0005	gyrB	469	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6734	0.0	N|N,Y	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6735	0.0	N|N,S	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6737	0.0	T|T,A	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6738	0.0	T|T,I	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6742	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	501	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+149	6749	0.0	A|A,T	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6750	0.0	A|A,V	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7351	0.0	P,L|P	0.99,0.0|1.0	Rv0006	gyrA	17	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~KAN
+00	2714130	0.0	S|S,F	1.0|0.99,0.0	Rv2416c	eis	402	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714267	0.0	L|L,S	1.0|0.99,0.0	Rv2416c	eis	356	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+55677	2714312	0.0	T,P|T	0.99,0.0|1.0	Rv2416c	eis	341	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714632	0.0	K|K,M	1.0|0.99,0.0	Rv2416c	eis	234	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714650	0.0	V|V,R	1.0|0.99,0.0	Rv2416c	eis	228	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714747	0.0	L,F|L	0.99,0.0|1.0	Rv2416c	eis	196	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714862	0.0	A|A,L	1.0|0.99,0.0	Rv2416c	eis	158	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714882	0.0	P|P,A	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714883	0.0	F|F,S	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715087	0.0	V|V,G	1.0|0.99,0.0	Rv2416c	eis	83	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715175	0.0	A|A,G	1.0|0.99,0.0	Rv2416c	eis	53	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~PAS
+00	3073806	0.0	D,E|D,E	0.98,0.01|0.99,0.0	Rv2764c	thyA	223	Probable thymidylate synthase ThyA (ts) (TSASE)
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~PZA
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+00	761277	0.0	I|I,V	1.0|0.99,0.0	Rv0667	rpoB	491	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+
+	Split 1.1.2.2.1.2.1.1:	Lineage_4.3 | Lineage_4.3~SM
+17307	781687	0.0	K,R|K,R	0.98,0.01|0.99,0.0	Rv0682	rpsL	43	30S ribosomal protein S12 RpsL	
+17311	781822	0.0	K,R|K,R	0.99,0.0|0.99,0.0	Rv0682	rpsL	88	30S ribosomal protein S12 RpsL	
+
+	Split 1.1.2.2.1.2.2:	S-type | S-type~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+
+	Split 1.1.2.2.1.2.2:	S-type | S-type~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+00	761277	0.0	I|I,V	1.0|0.99,0.0	Rv0667	rpoB	491	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+
+	Split 1.1.2.2.2:	Ural | Ural~AMK
+
+	Split 1.1.2.2.2:	Ural | Ural~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.1.2.2.2:	Ural | Ural~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr		
+
+	Split 1.1.2.2.2:	Ural | Ural~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA	
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA
+
+
+
+
+
+
+	Split 1.1.2.2.2:	Ural | Ural~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I	
+
+
+	Split 1.1.2.2.2:	Ural | Ural~KAN
+00	2714130	0.0	S|S,F	1.0|0.99,0.0	Rv2416c	eis	402	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714267	0.0	L|L,S	1.0|0.99,0.0	Rv2416c	eis	356	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+55677	2714312	0.0	T,P|T	0.99,0.0|1.0	Rv2416c	eis	341	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714632	0.0	K|K,M	1.0|0.99,0.0	Rv2416c	eis	234	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714650	0.0	V|V,R	1.0|0.99,0.0	Rv2416c	eis	228	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714747	0.0	L,F|L	0.99,0.0|1.0	Rv2416c	eis	196	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714862	0.0	A|A,L	1.0|0.99,0.0	Rv2416c	eis	158	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714882	0.0	P|P,A	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714883	0.0	F|F,S	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715087	0.0	V|V,G	1.0|0.99,0.0	Rv2416c	eis	83	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715175	0.0	A|A,G	1.0|0.99,0.0	Rv2416c	eis	53	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase
+
+	Split 1.1.2.2.2:	Ural | Ural~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+
+	Split 1.1.2.2.2:	Ural | Ural~PZA
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+	Split 1.1.2.2.2:	Ural | Ural~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+00	761277	0.0	I|I,V	1.0|0.99,0.0	Rv0667	rpoB	491	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+
+	Split 1.2.1.1:	X-type | X-type~AMK
+
+	Split 1.2.1.1:	X-type | X-type~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.2.1.1:	X-type | X-type~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr		
+
+	Split 1.2.1.1:	X-type | X-type~EMB
+86912	4248002	0.0	Q|Q,K	1.0|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86913	4248003	0.0	Q,R|Q,R	0.98,0.01|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86904	4247730	0.0	G,A,X|G,D	0.98,0.0,0.0|0.99,0.0	Rv3795	embB	406	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86890	4247429	0.0	M,V|M,L	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86891	4247431	0.0	M,I|M,I	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+
+	Split 1.2.1.1:	X-type | X-type~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA	
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA
+
+	Split 1.2.1.1:	X-type | X-type~FLQ
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5413	0.0	M,I|M	0.99,0.0|1.0	Rv0005	gyrB	58	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5902	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	221	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6043	0.0	K|K,N	1.0|0.99,0.0	Rv0005	gyrB	268	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6579	0.0	S|S,F	1.0|0.99,0.0	Rv0005	gyrB	447	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6620	0.0	D|D,N	1.0|0.99,0.0	Rv0005	gyrB	461	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6645	0.0	S|S,R	1.0|0.99,0.0	Rv0005	gyrB	469	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6734	0.0	N|N,Y	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6735	0.0	N|N,S	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6737	0.0	T|T,A	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6738	0.0	T|T,I	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6742	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	501	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+149	6749	0.0	A|A,T	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6750	0.0	A|A,V	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7351	0.0	P,L|P	0.99,0.0|1.0	Rv0006	gyrA	17	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.2.1.1:	X-type | X-type~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+
+	Split 1.2.1.1:	X-type | X-type~KAN
+00	2714130	0.0	S|S,F	1.0|0.99,0.0	Rv2416c	eis	402	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714267	0.0	L|L,S	1.0|0.99,0.0	Rv2416c	eis	356	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+55677	2714312	0.0	T,P|T	0.99,0.0|1.0	Rv2416c	eis	341	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714632	0.0	K|K,M	1.0|0.99,0.0	Rv2416c	eis	234	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714650	0.0	V|V,R	1.0|0.99,0.0	Rv2416c	eis	228	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714747	0.0	L,F|L	0.99,0.0|1.0	Rv2416c	eis	196	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714862	0.0	A|A,L	1.0|0.99,0.0	Rv2416c	eis	158	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714882	0.0	P|P,A	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714883	0.0	F|F,S	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715087	0.0	V|V,G	1.0|0.99,0.0	Rv2416c	eis	83	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715175	0.0	A|A,G	1.0|0.99,0.0	Rv2416c	eis	53	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase
+
+	Split 1.2.1.1:	X-type | X-type~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.2.1.1:	X-type | X-type~PZA
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+	Split 1.2.1.1:	X-type | X-type~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+00	761277	0.0	I|I,V	1.0|0.99,0.0	Rv0667	rpoB	491	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+
+	Split 1.2.1.1:	X-type | X-type~SM
+17307	781687	0.0	K,R|K,R	0.98,0.01|0.99,0.0	Rv0682	rpsL	43	30S ribosomal protein S12 RpsL	
+17311	781822	0.0	K,R|K,R	0.99,0.0|0.99,0.0	Rv0682	rpsL	88	30S ribosomal protein S12 RpsL	
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~AMK
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr		
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~EMB
+86912	4248002	0.0	Q|Q,K	1.0|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86913	4248003	0.0	Q,R|Q,R	0.98,0.01|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86904	4247730	0.0	G,A,X|G,D	0.98,0.0,0.0|0.99,0.0	Rv3795	embB	406	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86890	4247429	0.0	M,V|M,L	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86891	4247431	0.0	M,I|M,I	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA	
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA
+
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~FLQ
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5413	0.0	M,I|M	0.99,0.0|1.0	Rv0005	gyrB	58	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5902	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	221	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6043	0.0	K|K,N	1.0|0.99,0.0	Rv0005	gyrB	268	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6579	0.0	S|S,F	1.0|0.99,0.0	Rv0005	gyrB	447	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6620	0.0	D|D,N	1.0|0.99,0.0	Rv0005	gyrB	461	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6645	0.0	S|S,R	1.0|0.99,0.0	Rv0005	gyrB	469	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6734	0.0	N|N,Y	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6735	0.0	N|N,S	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6737	0.0	T|T,A	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6738	0.0	T|T,I	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6742	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	501	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+149	6749	0.0	A|A,T	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6750	0.0	A|A,V	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7351	0.0	P,L|P	0.99,0.0|1.0	Rv0006	gyrA	17	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)		
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~PZA
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+00	761277	0.0	I|I,V	1.0|0.99,0.0	Rv0667	rpoB	491	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+
+	Split 1.2.1.2:	Lineage_1.2 | Lineage_1.2~SM
+17307	781687	0.0	K,R|K,R	0.98,0.01|0.99,0.0	Rv0682	rpsL	43	30S ribosomal protein S12 RpsL	
+17311	781822	0.0	K,R|K,R	0.99,0.0|0.99,0.0	Rv0682	rpsL	88	30S ribosomal protein S12 RpsL	
+
+	Split 1.2.2.1.1:	X-type | X-type~AMK
+
+	Split 1.2.2.1.1:	X-type | X-type~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.2.2.1.1:	X-type | X-type~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr		
+
+	Split 1.2.2.1.1:	X-type | X-type~EMB
+86912	4248002	0.0	Q|Q,K	1.0|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86913	4248003	0.0	Q,R|Q,R	0.98,0.01|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86904	4247730	0.0	G,A,X|G,D	0.98,0.0,0.0|0.99,0.0	Rv3795	embB	406	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86890	4247429	0.0	M,V|M,L	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86891	4247431	0.0	M,I|M,I	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+
+	Split 1.2.2.1.1:	X-type | X-type~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA	
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA
+
+	Split 1.2.2.1.1:	X-type | X-type~FLQ
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5413	0.0	M,I|M	0.99,0.0|1.0	Rv0005	gyrB	58	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5902	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	221	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6043	0.0	K|K,N	1.0|0.99,0.0	Rv0005	gyrB	268	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6579	0.0	S|S,F	1.0|0.99,0.0	Rv0005	gyrB	447	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6620	0.0	D|D,N	1.0|0.99,0.0	Rv0005	gyrB	461	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6645	0.0	S|S,R	1.0|0.99,0.0	Rv0005	gyrB	469	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6734	0.0	N|N,Y	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6735	0.0	N|N,S	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6737	0.0	T|T,A	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6738	0.0	T|T,I	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6742	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	501	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+149	6749	0.0	A|A,T	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6750	0.0	A|A,V	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7351	0.0	P,L|P	0.99,0.0|1.0	Rv0006	gyrA	17	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.2.2.1.1:	X-type | X-type~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+
+	Split 1.2.2.1.1:	X-type | X-type~KAN
+00	2714130	0.0	S|S,F	1.0|0.99,0.0	Rv2416c	eis	402	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714267	0.0	L|L,S	1.0|0.99,0.0	Rv2416c	eis	356	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+55677	2714312	0.0	T,P|T	0.99,0.0|1.0	Rv2416c	eis	341	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714632	0.0	K|K,M	1.0|0.99,0.0	Rv2416c	eis	234	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714650	0.0	V|V,R	1.0|0.99,0.0	Rv2416c	eis	228	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714747	0.0	L,F|L	0.99,0.0|1.0	Rv2416c	eis	196	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714862	0.0	A|A,L	1.0|0.99,0.0	Rv2416c	eis	158	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714882	0.0	P|P,A	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714883	0.0	F|F,S	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715087	0.0	V|V,G	1.0|0.99,0.0	Rv2416c	eis	83	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715175	0.0	A|A,G	1.0|0.99,0.0	Rv2416c	eis	53	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+
+	Split 1.2.2.1.1:	X-type | X-type~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+
+
+	Split 1.2.2.1.1:	X-type | X-type~PZA
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+	Split 1.2.2.1.1:	X-type | X-type~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+00	761277	0.0	I|I,V	1.0|0.99,0.0	Rv0667	rpoB	491	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+
+	Split 1.2.2.1.1:	X-type | X-type~SM
+17307	781687	0.0	K,R|K,R	0.98,0.01|0.99,0.0	Rv0682	rpsL	43	30S ribosomal protein S12 RpsL	
+17311	781822	0.0	K,R|K,R	0.99,0.0|0.99,0.0	Rv0682	rpsL	88	30S ribosomal protein S12 RpsL	
+
+	Split 1.2.2.1.2:	CAS | CAS~AMK
+
+	Split 1.2.2.1.2:	CAS | CAS~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.2.2.1.2:	CAS | CAS~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr		
+
+	Split 1.2.2.1.2:	CAS | CAS~EMB
+86912	4248002	0.0	Q|Q,K	1.0|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86913	4248003	0.0	Q,R|Q,R	0.98,0.01|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86904	4247730	0.0	G,A,X|G,D	0.98,0.0,0.0|0.99,0.0	Rv3795	embB	406	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86890	4247429	0.0	M,V|M,L	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86891	4247431	0.0	M,I|M,I	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+
+	Split 1.2.2.1.2:	CAS | CAS~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA	
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA
+
+
+	Split 1.2.2.1.2:	CAS | CAS~FLQ
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5413	0.0	M,I|M	0.99,0.0|1.0	Rv0005	gyrB	58	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5902	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	221	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6043	0.0	K|K,N	1.0|0.99,0.0	Rv0005	gyrB	268	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6579	0.0	S|S,F	1.0|0.99,0.0	Rv0005	gyrB	447	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6620	0.0	D|D,N	1.0|0.99,0.0	Rv0005	gyrB	461	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6645	0.0	S|S,R	1.0|0.99,0.0	Rv0005	gyrB	469	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6734	0.0	N|N,Y	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6735	0.0	N|N,S	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6737	0.0	T|T,A	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6738	0.0	T|T,I	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6742	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	501	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+149	6749	0.0	A|A,T	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6750	0.0	A|A,V	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7351	0.0	P,L|P	0.99,0.0|1.0	Rv0006	gyrA	17	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.2.2.1.2:	CAS | CAS~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+
+	Split 1.2.2.1.2:	CAS | CAS~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.2.2.1.2:	CAS | CAS~PZA
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+	Split 1.2.2.1.2:	CAS | CAS~SM
+17307	781687	0.0	K,R|K,R	0.98,0.01|0.99,0.0	Rv0682	rpsL	43	30S ribosomal protein S12 RpsL	
+17311	781822	0.0	K,R|K,R	0.99,0.0|0.99,0.0	Rv0682	rpsL	88	30S ribosomal protein S12 RpsL	
+
+	Split 1.2.2.2:	Beijing | Beijing~AMK
+
+	Split 1.2.2.2:	Beijing | Beijing~CM
+00	1918585	0.0	Q|Q,R	1.0|0.99,0.0	Rv1694	tlyA	216	2'-O-methyltransferase TlyA	
+
+	Split 1.2.2.2:	Beijing | Beijing~CS
+00	3840320	0.0	A|A,W	1.0|0.99,0.0	Rv3423c	alr	368	Alanine racemase Alr	
+00	3840393	0.0	M|M,T	1.0|0.99,0.0	Rv3423c	alr	343	Alanine racemase Alr	
+00	3840456	0.0	L|L,R	1.0|0.99,0.0	Rv3423c	alr	322	Alanine racemase Alr	
+00	3840543	0.0	M|M,V	1.0|0.99,0.0	Rv3423c	alr	293	Alanine racemase Alr	
+00	3840625	0.0	V|V,L	1.0|0.99,0.0	Rv3423c	alr	266	Alanine racemase Alr	
+00	3840655	0.0	A|A,S	1.0|0.99,0.0	Rv3423c	alr	256	Alanine racemase Alr	
+00	3840822	0.0	A|A,D	1.0|0.99,0.0	Rv3423c	alr	200	Alanine racemase Alr	
+00	3840930	0.0	R|R,H	1.0|0.99,0.0	Rv3423c	alr	164	Alanine racemase Alr	
+00	3841069	0.0	V|V,I	1.0|0.99,0.0	Rv3423c	alr	118	Alanine racemase Alr	
+00	3841403	0.0	K|K,N	1.0|0.99,0.0	Rv3423c	alr	7	Alanine racemase Alr		
+
+	Split 1.2.2.2:	Beijing | Beijing~EMB
+86912	4248002	0.0	Q|Q,K	1.0|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86913	4248003	0.0	Q,R|Q,R	0.98,0.01|0.99,0.0	Rv3795	embB	497	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86904	4247730	0.0	G,A,X|G,D	0.98,0.0,0.0|0.99,0.0	Rv3795	embB	406	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+86890	4247429	0.0	M,V|M,L	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	
+86891	4247431	0.0	M,I|M,I	0.98,0.01|0.99,0.0	Rv3795	embB	306	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)
+
+	Split 1.2.2.2:	Beijing | Beijing~ETA
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+00	575484	0.0	R|R,P	1.0|0.99,0.0	Rv0486	mshA	46	Glycosyltransferase MshA	
+00	575805	0.0	S|S,L	1.0|0.99,0.0	Rv0486	mshA	153	Glycosyltransferase MshA	
+12819	575907	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0486	mshA	187	Glycosyltransferase MshA	
+00	576029	0.0	H|H,Y	1.0|0.99,0.0	Rv0486	mshA	228	Glycosyltransferase MshA
+00	4326462	0.0	H,I|H,I	0.99,0.0|0.99,0.0	Rv3854c	ethA	338	Monooxygenase EthA	
+00	4327307	0.0	D|D,A	1.0|0.99,0.0	Rv3854c	ethA	56	Monooxygenase EthA
+
+	Split 1.2.2.2:	Beijing | Beijing~FLQ
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5413	0.0	M,I|M	0.99,0.0|1.0	Rv0005	gyrB	58	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	5902	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	221	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6043	0.0	K|K,N	1.0|0.99,0.0	Rv0005	gyrB	268	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6579	0.0	S|S,F	1.0|0.99,0.0	Rv0005	gyrB	447	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6620	0.0	D|D,N	1.0|0.99,0.0	Rv0005	gyrB	461	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6645	0.0	S|S,R	1.0|0.99,0.0	Rv0005	gyrB	469	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6734	0.0	N|N,Y	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6735	0.0	N|N,S	1.0|0.99,0.0	Rv0005	gyrB	499	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6737	0.0	T|T,A	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6738	0.0	T|T,I	1.0|0.99,0.0	Rv0005	gyrB	500	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6742	0.0	E|E,D	1.0|0.99,0.0	Rv0005	gyrB	501	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+149	6749	0.0	A|A,T	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	6750	0.0	A|A,V	1.0|0.99,0.0	Rv0005	gyrB	504	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7351	0.0	P,L|P	0.99,0.0|1.0	Rv0006	gyrA	17	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+
+	Split 1.2.2.2:	Beijing | Beijing~INH
+35717	1674481	0.0	S,A|S,A	0.98,0.01|0.99,0.0	Rv1484	inhA	94	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	
+45331	2155168	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv1908c	katG	315	Catalase-peroxidase-peroxynitritase T KatG
+52189	2518919	0.0	G,S|G	0.99,0.0|1.0	Rv2245	kasA	269	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I
+
+	Split 1.2.2.2:	Beijing | Beijing~KAN
+00	2714130	0.0	S|S,F	1.0|0.99,0.0	Rv2416c	eis	402	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714267	0.0	L|L,S	1.0|0.99,0.0	Rv2416c	eis	356	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+55677	2714312	0.0	T,P|T	0.99,0.0|1.0	Rv2416c	eis	341	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714632	0.0	K|K,M	1.0|0.99,0.0	Rv2416c	eis	234	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714650	0.0	V|V,R	1.0|0.99,0.0	Rv2416c	eis	228	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714747	0.0	L,F|L	0.99,0.0|1.0	Rv2416c	eis	196	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714862	0.0	A|A,L	1.0|0.99,0.0	Rv2416c	eis	158	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714882	0.0	P|P,A	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2714883	0.0	F|F,S	1.0|0.99,0.0	Rv2416c	eis	151	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715087	0.0	V|V,G	1.0|0.99,0.0	Rv2416c	eis	83	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+00	2715175	0.0	A|A,G	1.0|0.99,0.0	Rv2416c	eis	53	Enhanced intracellular survival protein Eis,GCN5-related N-acetyltransferase	
+
+	Split 1.2.2.2:	Beijing | Beijing~OFL
+167	7570	0.0	A,V|A,V	0.98,0.01|0.99,0.0	Rv0006	gyrA	90	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+169	7581	0.0	D,N|D,N	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+170	7582	0.0	D,G|D,A	0.98,0.01|0.99,0.0	Rv0006	gyrA	94	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7563	0.0	G,C|G	0.99,0.0|1.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	
+00	7564	0.0	G|G,A	1.0|0.99,0.0	Rv0006	gyrA	88	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+168	7572	0.0	S,P|S,P	0.99,0.0|0.99,0.0	Rv0006	gyrA	91	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+171	7585	0.0	S,T|S,T	0.98,0.01|0.99,0.0	Rv0006	gyrA	95	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)
+
+	Split 1.2.2.2:	Beijing | Beijing~PAS	
+00	3073806	0.0	D,E|D,E	0.98,0.01|0.99,0.0	Rv2764c	thyA	223	Probable thymidylate synthase ThyA (ts) (TSASE)
+
+	Split 1.2.2.2:	Beijing | Beijing~PZA
+47900	2288944	0.0	T|T,A,P	1.0|0.99,0.0,0.0	Rv2043c	pncA	100	Pyrazinamidase/nicotinamidase PncA (PZase))	
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289090	0.0	H|H,R	1.0|0.99,0.0	Rv2043c	pncA	51	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288727	0.0	L,P|L,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	172	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288988	0.0	L|L,R	1.0|0.99,0.0	Rv2043c	pncA	85	Pyrazinamidase/nicotinamidase PncA (PZase))
+47876	2288839	0.0	T,P|T,P	0.99,0.0|0.99,0.0	Rv2043c	pncA	135	Pyrazinamidase/nicotinamidase PncA
+47919	2289040	0.0	W|W,R	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2289041	0.0	W|W,G	1.0|0.99,0.0	Rv2043c	pncA	68	Pyrazinamidase/nicotinamidase PncA (PZase))
+00	2288859	0.0	V|V,G	1.0|0.99,0.0	Rv2043c	pncA	128	Pyrazinamidase/nicotinamidase PncA (PZase))
+47870	2288826	0.0	V,A|V,A,G	0.98,0.01|0.99,0.0,0.0	Rv2043c	pncA	139	Pyrazinamidase/nicotinamidase PncA (PZase)
+00	2289207	0.0	D|D,A,G	1.0|0.99,0.0,0.0	Rv2043c	pncA	12	Pyrazinamidase/nicotinamidase PncA (PZase))	
+00	2289213	0.0	Q|Q,P	1.0|0.99,0.0	Rv2043c	pncA	10	Pyrazinamidase/nicotinamidase PncA (PZase)
+47901	2288952	0.0	G,D|G,D	0.99,0.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+00	2288953	0.0	G|G,S	1.0|0.99,0.0	Rv2043c	pncA	97	Pyrazinamidase/nicotinamidase PncA (PZase)	
+
+
+	Split 1.2.2.2:	Beijing | Beijing~RIF
+16861	761109	0.0	D|D,Y	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16862	761110	0.0	D|D,G	1.0|0.99,0.0	Rv0667	rpoB	435	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16863	761139	0.0	H,D|H,N	0.98,0.01|0.99,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16864	761140	0.0	H|H,L,R	1.0|0.99,0.0,0.0	Rv0667	rpoB	445	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+00	761277	0.0	I|I,V	1.0|0.99,0.0	Rv0667	rpoB	491	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+16869	761161	0.0	L,P|L,P	0.98,0.01|0.99,0.0	Rv0667	rpoB	452	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	
+16868	761155	0.0	S,L,W|S,L	0.98,0.0,0.0|0.99,0.0	Rv0667	rpoB	450	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)
+
+	Split 1.2.2.2:	Beijing | Beijing~SM
+17307	781687	0.0	K,R|K,R	0.98,0.01|0.99,0.0	Rv0682	rpsL	43	30S ribosomal protein S12 RpsL	
+17311	781822	0.0	K,R|K,R	0.99,0.0|0.99,0.0	Rv0682	rpsL	88	30S ribosomal protein S12 RpsL			
+
+#### <--
+
+// Abbreviations
+AMK	Amikacin
+CM	Capreomycin
+CS	Cycloserin
+EMB	Ethambutol
+ETH	Ethionamide
+INH	Isoniazid
+FLQ	Fluoroquinolones
+KAN	Kanamycin
+OFL	Ofloxacin
+PAS	Para-amino salicyclic acid
+PZA	Pyrazinamide
+RIF	Rifampicin
+SM	Streptomycin
+//
+
+// Statistics
+0	0.0
+0.02	5.6
+0.05	14.2
+0.07	19.3
+0.1	20.1
+0.12	21.4
+0.15	22.2
+0.17	22.7
+0.2	23.0
+0.22	23.2
+0.25	24.2
+0.27	32.6
+0.3	38.2
+0.32	46.7
+0.35	47.6
+0.37	47.8
+0.4	47.8
+0.42	47.9
+0.45	47.9
+0.47	49.9
+0.5	50.6
+0.52	50.6
+0.55	50.7
+0.57	50.9
+0.6	51.3
+0.62	51.6
+0.65	52.4
+0.67	53.3
+0.7	54.0
+0.72	54.3
+0.75	55.3
+0.77	56.3
+0.8	56.6
+0.82	59.7
+0.85	60.3
+0.87	62.6
+0.9	62.9
+0.92	64.4
+0.95	65.2
+0.97	79.5
+1	95.0
+//
+	
